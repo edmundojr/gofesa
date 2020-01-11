@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/gofesa/static/js/main.3ece4f1f.chunk.js",
-    "main.js.map": "/gofesa/static/js/main.3ece4f1f.chunk.js.map",
-    "runtime-main.js": "/gofesa/static/js/runtime-main.7ec6b1ff.js",
-    "runtime-main.js.map": "/gofesa/static/js/runtime-main.7ec6b1ff.js.map",
-    "static/js/2.308dff32.chunk.js": "/gofesa/static/js/2.308dff32.chunk.js",
-    "static/js/2.308dff32.chunk.js.map": "/gofesa/static/js/2.308dff32.chunk.js.map",
-    "index.html": "/gofesa/index.html",
-    "precache-manifest.296ffa5709c1fa872b584aab23aeaf42.js": "/gofesa/precache-manifest.296ffa5709c1fa872b584aab23aeaf42.js",
-    "service-worker.js": "/gofesa/service-worker.js",
-    "static/js/2.308dff32.chunk.js.LICENSE": "/gofesa/static/js/2.308dff32.chunk.js.LICENSE"
+    "main.js": "/static/js/main.0abf191b.chunk.js",
+    "main.js.map": "/static/js/main.0abf191b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.790a0dee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.790a0dee.js.map",
+    "static/js/2.308dff32.chunk.js": "/static/js/2.308dff32.chunk.js",
+    "static/js/2.308dff32.chunk.js.map": "/static/js/2.308dff32.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6dd9db0ac345736bc2cd2cf77e450fa0.js": "/precache-manifest.6dd9db0ac345736bc2cd2cf77e450fa0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.308dff32.chunk.js.LICENSE": "/static/js/2.308dff32.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ec6b1ff.js",
+    "static/js/runtime-main.790a0dee.js",
     "static/js/2.308dff32.chunk.js",
-    "static/js/main.3ece4f1f.chunk.js"
+    "static/js/main.0abf191b.chunk.js"
   ]
 }
