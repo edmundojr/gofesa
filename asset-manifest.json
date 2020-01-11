@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gofesa/static/js/main.3ece4f1f.chunk.js",
+    "main.js.map": "/gofesa/static/js/main.3ece4f1f.chunk.js.map",
+    "runtime-main.js": "/gofesa/static/js/runtime-main.7ec6b1ff.js",
+    "runtime-main.js.map": "/gofesa/static/js/runtime-main.7ec6b1ff.js.map",
+    "static/js/2.308dff32.chunk.js": "/gofesa/static/js/2.308dff32.chunk.js",
+    "static/js/2.308dff32.chunk.js.map": "/gofesa/static/js/2.308dff32.chunk.js.map",
+    "index.html": "/gofesa/index.html",
+    "precache-manifest.296ffa5709c1fa872b584aab23aeaf42.js": "/gofesa/precache-manifest.296ffa5709c1fa872b584aab23aeaf42.js",
+    "service-worker.js": "/gofesa/service-worker.js",
+    "static/js/2.308dff32.chunk.js.LICENSE": "/gofesa/static/js/2.308dff32.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec6b1ff.js",
+    "static/js/2.308dff32.chunk.js",
+    "static/js/main.3ece4f1f.chunk.js"
+  ]
+}
