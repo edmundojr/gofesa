@@ -2,7 +2,7 @@
   "name": "gofesa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edmundojr.github.io/gofesa",
+  "homepage": "https://gofesa.com.br",
   "dependencies": {
     "@types/node": "^13.1.6",
     "@types/react": "^16.9.17",
