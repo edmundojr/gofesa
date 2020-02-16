@@ -1,0 +1,46 @@
+:root {
+  --gutter: 30px;
+
+  --primary: #184d64;
+  --secondary: #8fd3dc;
+  --background: #ecfbfc;
+
+  --headings-color: var(--primary);
+  --body-color: #446878;
+  --body-bg: var(--background);
+}
+
+html {
+  font-size: 20px;
+}
+
+body {
+  padding: 0 var(--gutter);
+  font: 1rem/1.5 sans-serif;
+  color: var(--body-color);
+  background: var(--body-bg);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Monument Extended", sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  color: var(--headings-color);
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+}

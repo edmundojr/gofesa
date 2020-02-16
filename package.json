@@ -4,16 +4,20 @@
   "private": true,
   "homepage": "https://gofesa.com.br",
   "dependencies": {
+    "bootstrap": "^4.4.1",
+    "framer-motion": "^1.8.4",
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^3.4.0",
+    "styled-components": "^5.0.1",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
     "@types/node": "^13.7.1",
     "@types/react": "^16.9.19",
-    "@types/react-dom": "^16.9.5"
+    "@types/react-dom": "^16.9.5",
+    "@types/styled-components": "^4.4.3"
   },
   "scripts": {
     "predeploy": "npm run build",
